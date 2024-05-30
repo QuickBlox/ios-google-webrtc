@@ -46,4 +46,4 @@ To add the WebRTC dynamic framework to your Xcode project using Swift Package Ma
 
 2. Go to `File` > `Swift Packages` > `Add Package Dependency`.
 
-3. Enter the repository URL: `https://github.com/yourusername/ios-webrtc-dynamic`.
+3. Enter the repository URL: `https://github.com/QuickBlox/ios-google-webrtc`.
